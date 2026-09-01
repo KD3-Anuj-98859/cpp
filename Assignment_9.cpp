@@ -131,15 +131,7 @@ class SalesManager :public Manager,Salesman{
 
 int main(){
 
-// Employee emp(101,5000);
- //emp.accecpt();
- //emp.display();
- //Manager manager;
- //manager.accecpt();
- //manager.display();
- //Salesman sales;
- //sales.accecpt();
- //sales.display();
+
  SalesManager salesmanager;
  salesmanager.accecpt();
  salesmanager.display();
